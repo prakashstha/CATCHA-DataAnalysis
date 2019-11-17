@@ -1,0 +1,9 @@
+cls_gender,400,0.30000000000000004,170,log2,40,False
+cls_age2,400,0.30000000000000004,170,log2,40,False
+cls_edu_highschool,50,0.30000000000000004,150,log2,21,False
+cls_edu_bachelor,400,0.30000000000000004,170,log2,40,False
+cls_edu_graduate,400,0.30000000000000004,170,log2,40,False
+cls_edu_graduate,400,0.30000000000000004,170,log2,40,False
+cls_edu_all,400,0.30000000000000004,170,log2,40,False
+SVM: {'C': 1, 'kernel': 'linear'}
+cls_gender_SVM,1,linear
